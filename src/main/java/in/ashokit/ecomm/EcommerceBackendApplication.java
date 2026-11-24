@@ -17,8 +17,6 @@ public void m2(){
 		SpringApplication.run(EcommerceBackendApplication.class, args);
 		int j = 10;
 
-	String name = "Java";
-
 	public void m1(){
 //JIRA 101
 	int 1= 10;
